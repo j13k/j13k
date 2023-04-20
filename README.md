@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 A compact PHP command line utility for checking YAML file syntax.
 
+### Fast User Switch workflow
+
+_Fast User Switch_ is a Mac OS X Automator workflow that can be assigned to a system-wide hotkey for _really_ fast user switching.
+
+
 [ico-version]: https://img.shields.io/packagist/v/j13k/yaml-lint.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/j13k/yaml-lint.svg?style=flat-square
