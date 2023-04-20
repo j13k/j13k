@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-### yaml-lint
+### [yaml-lint](https://github.com/j13k/yaml-lint)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]][link-license]
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 A compact PHP command line utility for checking YAML file syntax.
 
-### Fast User Switch workflow
+### [fast-user-switch](https://github.com/j13k/fast-user-switch)
 
 _Fast User Switch_ is a Mac OS X Automator workflow that can be assigned to a system-wide hotkey for _really_ fast user switching.
 
