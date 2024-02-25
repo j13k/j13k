@@ -1,6 +1,6 @@
 # j13k/j13k
 
-- 🔭 I’m currently working on [open source projects](#projects), Python web apps and Bioinformatics pipelines.
+- 🔭 I’m currently working on [open source projects](#projects), Python web apps and bioinformatics pipelines, systems and operations at [AGRF](https://github.com/AGRF).
 
 <!--
 **j13k/j13k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
