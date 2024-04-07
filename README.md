@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 A compact PHP command line utility for checking YAML file syntax.
 
+### [couchdb-cluster-sandbox](https://github.com/j13k/couchdb-cluster-sandbox)
+
+A Docker Compose stack for learning to build and configure a CouchDB cluster.
+
+This project was set up to assist with learning and documenting the process of setting up a CouchDB cluster. It uses Docker to create network nodes, and to simulate network disconnections for replication testing.
+
 ### [fast-user-switch](https://github.com/j13k/fast-user-switch)
 
 _Fast User Switch_ is a Mac OS X Automator workflow that can be assigned to a system-wide hotkey for _really_ fast user switching.
