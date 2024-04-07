@@ -1,6 +1,6 @@
-# j13k/j13k
+# John Fitzpatrick
 
-- 👨🏻‍💻 I manage the Systems Development team at [AGRF](https://github.com/AGRF). The team develops Python apps, bioinformatics pipelines and lab information systems, along with HPC and cloud operations.
+- 👨🏻‍💻 I manage the Systems Development team at [AGRF](https://github.com/AGRF). The team develops Python apps, bioinformatics pipelines and lab information systems, along with managing HPC and cloud operations.
 - 🔭 I manage a couple of small [open source projects](#projects).
 
 <!--
