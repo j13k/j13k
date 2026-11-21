@@ -12,7 +12,7 @@
 [![CI][ico-github-ci]][link-github-ci]
 [![Coverage][ico-coverage]][link-github-ci]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Software License][ico-license]](LICENSE)
+[![Software License][ico-license]][link-license]
 
 A compact command line utility for checking YAML file syntax, using the symfony/yaml parser.
 Install it with Composer, as a signed standalone PHAR, or as a Docker image.
